@@ -1,0 +1,2 @@
+VEGETATION DATASET = "https://universe.roboflow.com/blue-halo/vegetation-segmentation/dataset/2"
+SOIL DETECTION DATASET = "https://universe.roboflow.com/imit-h5ows/soil-detection-l0ngo"
